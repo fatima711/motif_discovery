@@ -1,0 +1,6 @@
+postgres: could not access directory "/project/6008495/qahme033/motif_discovery/slurm/../qahme033/motif_discovery/db": No such file or directory
+Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+postgres: could not access directory "/project/6008495/qahme033/motif_discovery/slurm/../qahme033/motif_discovery/db": No such file or directory
+Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+postgres: could not access directory "/project/6008495/qahme033/motif_discovery/slurm/../qahme033/motif_discovery/db": No such file or directory
+Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
