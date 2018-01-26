@@ -39,4 +39,5 @@ Motifs are seperated into 1000 jobs, and their upper bound in size. With those m
 
 6. Run results to analyse the results in different plots and calculate the FDR for the different p-values and plot that.
 
+7. Run results_cluster_analysis to cluster results into family of motifs
 
